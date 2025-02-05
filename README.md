@@ -14,7 +14,7 @@
 
 ## 🎮 项目列表
 
-### 1. RWKV 黑白棋 (Othello)
+### 1. RWKV Othello (黑白棋)
 
 **项目描述**: 基于 RWKV 模型实现的黑白棋对战  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/RWKV_Othello)  
@@ -23,7 +23,7 @@
 - iOS: [TestFlight](https://testflight.apple.com/join/YCC3bcD2)
 - Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.1-110.zip)
 
-### 2. RWKV 聊天机器人 v7
+### 2. RWKV Chat v7 (聊天)
 
 **项目亮点**: 支持多平台运行的对话系统  
 **体验与下载**:
@@ -33,7 +33,7 @@
 - iOS: [TestFlight](https://testflight.apple.com/join/DaMqCNKh)
 - Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV-Chat-V7-1.0.0-231.zip)
 
-### 3. RWKV 15-Puzzle
+### 3. RWKV 15-Puzzle (数字华容道)
 
 **项目特色**: 使用 AI 解谜的经典数字华容道  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/RWKV-15Puzzle)  
@@ -43,7 +43,7 @@
 - Windows: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/15Puzzle_webgpu_windows.zip)
 - Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV-15Puzzle-0.1.0-102.zip)
 
-### 4. RWKV 数独求解器
+### 4. RWKV Sudoku (数独)
 
 **功能说明**: 数独解题  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/Sudoku-RWKV)  
