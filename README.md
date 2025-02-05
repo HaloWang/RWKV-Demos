@@ -18,7 +18,7 @@
 
 **项目描述**: 基于 RWKV 模型实现的黑白棋对战  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/RWKV_Othello)  
-**在线体验**:
+**体验与下载**:
 
 - iOS: [TestFlight](https://testflight.apple.com/join/YCC3bcD2)
 - Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.1-110.zip)
@@ -26,7 +26,7 @@
 ### 2. RWKV 聊天机器人 v7
 
 **项目亮点**: 支持多平台运行的对话系统  
-**在线体验**:
+**体验与下载**:
 
 - Web 版: [立即体验](https://cryscan.github.io/web-rwkv-puzzles/#/chat)
 - Hugging Face: [Spaces](https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-1)
@@ -37,7 +37,7 @@
 
 **项目特色**: 使用 AI 解谜的经典数字华容道  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/RWKV-15Puzzle)  
-**跨平台支持**:
+**体验与下载**:
 
 - Web 版: [立即体验](https://cryscan.github.io/web-rwkv-puzzles/#/15puzzle)
 - Windows: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/15Puzzle_webgpu_windows.zip)
@@ -47,7 +47,7 @@
 
 **功能说明**: 数独解题  
 **源码**: [Python 源代码](https://github.com/Jellyfish042/Sudoku-RWKV)  
-**客户端下载**:
+**体验与下载**:
 
 - Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV-Sudoku-0.1.8-140.zip)
 - Windows: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV-Sudoku-windows-x64-0.1.8-140.zip)
