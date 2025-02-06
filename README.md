@@ -21,7 +21,7 @@
 **体验与下载**:
 
 - iOS: [TestFlight](https://testflight.apple.com/join/YCC3bcD2)
-- Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.1-110.zip)
+- Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.3-121.zip)
 
 ### 2. RWKV Chat v7 (聊天)
 
