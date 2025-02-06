@@ -20,8 +20,8 @@
 **源码**: [Python 源代码](https://github.com/Jellyfish042/RWKV_Othello)  
 **体验与下载**:
 
-- iOS: [TestFlight](https://testflight.apple.com/join/YCC3bcD2)
-- Android: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.3-121.zip)
+- iOS, 迭代开发中: [TestFlight](https://testflight.apple.com/join/YCC3bcD2)
+- Android, 迭代开发中: [Download](https://github.com/HaloWang/RWKV-Demos/releases/download/1.0.0/RWKV.v7.Othello-1.0.3-121.zip)
 
 ### 2. RWKV Chat v7 (聊天)
 
